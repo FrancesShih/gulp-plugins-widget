@@ -1,7 +1,7 @@
 {
   "name": "gulp-widget-generate",
-  "version": "0.0.1",
-  "author": "Frances.Shih",
+  "version": "0.1.0",
+  "private": true,
   "description": "generate widget & add source",
   "dependencies": {
 	"gulp-util": "^3.0.1",
