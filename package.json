@@ -1,0 +1,10 @@
+{
+  "name": "gulp-widget-generate",
+  "version": "0.0.1",
+  "author": "Frances.Shih",
+  "description": "generate widget & add source",
+  "dependencies": {
+	"gulp-util": "^3.0.1",
+ 	"through2": "^2.0.0"
+  }
+}
